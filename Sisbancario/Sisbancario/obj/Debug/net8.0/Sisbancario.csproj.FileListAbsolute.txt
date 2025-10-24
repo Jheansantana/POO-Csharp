@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\bin\Debug\net8.0\Sisbancario.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\bin\Debug\net8.0\Sisbancario.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\bin\Debug\net8.0\Sisbancario.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\bin\Debug\net8.0\Sisbancario.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\bin\Debug\net8.0\Sisbancario.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\refint\Sisbancario.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\Sisbancario.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Sisbancario\Sisbancario\obj\Debug\net8.0\ref\Sisbancario.dll
