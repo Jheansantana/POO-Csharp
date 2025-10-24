@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\bin\Debug\net8.0\herança.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\bin\Debug\net8.0\herança.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\bin\Debug\net8.0\herança.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\bin\Debug\net8.0\herança.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\bin\Debug\net8.0\herança.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\refint\herança.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\herança.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\herança\herança\obj\Debug\net8.0\ref\herança.dll
