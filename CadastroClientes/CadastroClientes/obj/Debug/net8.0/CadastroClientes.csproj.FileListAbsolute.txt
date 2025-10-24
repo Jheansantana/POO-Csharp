@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\bin\Debug\net8.0\CadastroClientes.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\refint\CadastroClientes.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\CadastroClientes.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\CadastroClientes\CadastroClientes\obj\Debug\net8.0\ref\CadastroClientes.dll
